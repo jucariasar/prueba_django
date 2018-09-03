@@ -10,6 +10,5 @@ class Reportero(models.Model):
 
 class Articulo(models.Models):
 	fecha_publicacion = models.DateTimeField('Fecha de Puclicacion')
-	Prueba
 
 
